@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Average.png</file>
+    </qresource>
+</RCC>
